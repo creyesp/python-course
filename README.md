@@ -74,7 +74,7 @@
 
 ## Sección 3 – Variables
 * ¿Qué es una variable? 
-* ¿Cómo crear una variable
+* ¿Cómo crear una variable?
 * ¿Qué nombres usar?
 * ¿Qué nombres no usar?
 * Cómo asignar un nuevo valor a una variable ya existente
@@ -82,27 +82,33 @@
 * como castear una variable a otro tipo de dato
 
 ## Sección 2 – Operadores - herramientas de manipulación de datos
-* Operadores Básicos +,-,/,\*,//,%
+* Operadores Básicos 
+  * +,-,/,\*,//,%, **
+* Otros operadores
+  * round(), abs()
 * Extensión para string y otros tipos de datos
-* Orden de las operaciones 
+  * +
+* Orden de las operaciones
 * Operadores Abreviados
+  * +=, -=, *=, /=
+* Convertir tipo de variable
+  * str(), int(), float()
 
-### Ejercicios
-* LAB Variables:
-* LAB Variables: un convertidor simple
+## Personalizar strings
+* ¿Cómo juntar 2 strings?
+* ¿Cómo crea un string con otro tipo de datos?
+* ¿Cómo generar string dinámicos?
+* ¿Cómo crear un bloque de texto?
+* Caracteres especiales \n \t \”
+* Doble comilla o comilla simple?
 
 ## Sección 5 – Comentarios
 * 2.5.1 Comentarios – ¿por qué, cuándo, y dónde?
 * 2.5.2 Marcar fragmentos de código
 
-## Sección 6 – Interacción con el usuario
+## Sección 6 – Entrada y salida de texto
 * La función print()
 * La función input()
-* Caracteres de escape y nueva línea en Python
-* Cómo personalizar un string (fstring, format, templates, jinja)
-
-### Ejercicio
-* Usar la función input y print para hacer cuestionario
 
 ### Buenas prácticas 
 
@@ -112,7 +118,6 @@
 ## Sección 1 – Introducción a las Condiciones
 * ¿Qué es una estructura de control?
 * ¿Por qué son necesarias las condiciones en programación?
-* Ejemplos de decisiones en la vida cotidiana vs. en código
 
 ## Sección 2 – La estructura if-elif-else
 * Sintaxis y funcionamiento
@@ -122,7 +127,7 @@
 
 ## Sección 3 – Expresiones Condicionales y Evaluación Cortocircuitada
 * Expresiones condicionales en una línea
-* Evaluación perezosa (cortocircuitada)
+* Evaluación perezosa
 
 ### Ejercicios:
 * Crear un programa que determine si un número es positivo, negativo o cero
@@ -134,7 +139,6 @@
 
 ## Sección 1 – Introducción a los Bucles
 * ¿Qué es un bucle y por qué es importante?
-* Repetición manual vs. repetición automática
 
 ## Sección 2 – El bucle while
 * Sintaxis y funcionamiento
