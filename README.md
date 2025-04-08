@@ -234,7 +234,7 @@
 * Crear un módulo que contenga funciones matemáticas básicas
 
 
-# Clase 9: Manejo de Archivos y Manejo de Errores y Excepciones
+# Clase 9: Manejo de String, Archivos, Manejo de Errores y Excepciones
 
 ## Sección 1 – Manejo de Archivos
 * Apertura y lectura de archivos (open(), read())
