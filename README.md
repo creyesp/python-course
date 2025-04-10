@@ -212,16 +212,29 @@
 
 [//]: # (Miércoles 9 de abril)
 
-# Clase 8: Funciones, programación modular, clases y objetos
+# Clase 8: Manejo de String, Archivos y Errores
+## Sección 1 - manejo de strings
+* Importnacia de los Strings
+* Strings como una secuencia inmutable
+* Operadores
+* Metodos comunes
+* Formateo de strings
+
+## Sección 1 – Manejo de Archivos
+* Sintaxis: Apertura y lectura de archivos
+* Motodos comunes (read(), readlines, write(), writelines(), append())
+* Uso de with para manejar archivos
+
+### Ejercicios:
+* Leer un archivo de texto y contar sus líneas
+* Escribir la cantidad de caracteres en cada linea de un texto
+
+# Clase 9: Funciones y clases
 
 ## Sección 1 – Funciones en Python
 * ¿Qué es una función y por qué es útil?
 * Sintaxis de una función (def)
 * Parámetros y argumentos
-
-## Sección 2 – Programación Modular
-* Importar funciones desde otros archivos (import)
-* Crear y usar módulos
 
 ## Sección 3 – Clases y Objetos
 * Conceptos básicos de Programación Orientada a Objetos
@@ -233,32 +246,16 @@
 * Escribir una clase Persona con atributos como nombre y edad
 * Crear un módulo que contenga funciones matemáticas básicas
 
-
-# Clase 9: Manejo de String, Archivos, Manejo de Errores y Excepciones
-
-## Sección 1 – Manejo de Archivos
-* Apertura y lectura de archivos (open(), read())
-* Escritura en archivos (write(), append())
-* Uso de with para manejar archivos
-
-## Sección 2 – Manejo de Errores y Excepciones
-* ¿Qué es una excepción?
-* try-except para manejar errores
-* Excepciones comunes en Python (ZeroDivisionError, FileNotFoundError)
-* Personalizar excepciones
-
-### Ejercicios:
-* Leer un archivo de texto y contar sus líneas
-* Manejar un error al dividir entre cero
-* Escribir en un archivo sin sobrescribir contenido anterior
-
 [//]: # (Sábado 12 de abril)
 
 # Clase 10: Introducción a Bibliotecas en Python
 
 ## Sección 1 – ¿Qué es una biblioteca?
 * Definición y beneficios
+* * Importar funciones desde otros archivos (import)
 * Librerías estándar vs. externas
+  * math, random, datetime, time, 
+* Crear y usar módulos locales
 
 ## Sección 2 – Instalación y Uso de Librerías
 * pip y conda para instalar librerías
@@ -352,6 +349,12 @@
 * cómo estructurar un proyecto con miras a producción
 * importancia del control estricto de versiones para que sea reproducible
 
+## Sección 2 – Manejo de Errores y Excepciones
+* ¿Qué es una excepción?
+* try-except para manejar errores
+* Excepciones comunes en Python (ZeroDivisionError, FileNotFoundError)
+* Personalizar excepciones
+
 # Clase 16: Consultas
 
 
@@ -393,6 +396,8 @@ Se publica el Lunes 14 y hay plazo hasta el Miércoles 16 para entregarlos
 # Datasets
 - [Datos registro civil montevideo](https://ckan.montevideo.gub.uy/dataset/partidas-de-registro-civil-de-montevideo)
 - [Estadísticas de uso: Cómo Ir](https://ckan.montevideo.gub.uy/dataset/estadisticas-de-uso-como-ir)
+- [Precios.uy](https://www.precios.uy/category/reporte-mensual/)
 - [Info frutas](https://www.fruityvice.com/)
 - [Review Amazon](https://snap.stanford.edu/data/web-Amazon-links.html)
 - [Open Apis](https://github.com/public-apis/public-apis?tab=readme-ov-file#food--drink)
+  
