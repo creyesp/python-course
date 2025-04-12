@@ -252,21 +252,21 @@
 
 ## Sección 1 – ¿Qué es una biblioteca?
 * Definición y beneficios
-* * Importar funciones desde otros archivos (import)
-* Librerías estándar vs. externas
-  * math, random, datetime, time, 
+* Sintaxis - Importar funciones desde otros archivos (import)
+* Bibliotecas internas (buildin)
+  * math, random, datetime, time, os, json, Path, 
+* Bibliotecas externas / de terceros
+  * numpy, matplotlib, pandas, seaborn, etc
+  * como instalarlas (conda y pip)
+* Como acceder a la documentación
 * Crear y usar módulos locales
-
-## Sección 2 – Instalación y Uso de Librerías
-* pip y conda para instalar librerías
-* Importación y uso básico de bibliotecas comunes (math, random, datetime)
 
 ### Ejercicios:
 * Generar un número aleatorio con random
 * Obtener la fecha y hora actual con datetime
 * Calcular la raíz cuadrada de un número usando math
 
-## Sección 3 - Proyecto final
+## Sección 2 - Proyecto final
 
 
 # Clase 11: Introducción a NumPy
