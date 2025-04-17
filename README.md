@@ -397,6 +397,7 @@ Se publica el Lunes 14 y hay plazo hasta el Miércoles 16 para entregarlos
 - [Datos registro civil montevideo](https://ckan.montevideo.gub.uy/dataset/partidas-de-registro-civil-de-montevideo)
 - [Estadísticas de uso: Cómo Ir](https://ckan.montevideo.gub.uy/dataset/estadisticas-de-uso-como-ir)
 - [Precios.uy](https://www.precios.uy/category/reporte-mensual/)
+- [Precios x día](https://catalogodatos.gub.uy/dataset/declaraciones-al-sistema-de-informacion-de-precios-al-consumidor-2019)
 - [Info frutas](https://www.fruityvice.com/)
 - [Review Amazon](https://snap.stanford.edu/data/web-Amazon-links.html)
 - [Open Apis](https://github.com/public-apis/public-apis?tab=readme-ov-file#food--drink)
