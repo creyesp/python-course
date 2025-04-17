@@ -1,4 +1,4 @@
-def mse(observations, predictions):
+def mse(observations: list, predictions: list) -> float:
     """
     Mean Squared Error
     """
