@@ -391,6 +391,8 @@ Se publica el Lunes 14 y hay plazo hasta el Miércoles 16 para entregarlos
 - [Introduction to Python Programming](https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Python_Programming_-_WEB.pdf)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Automate the boring stuff](https://automatetheboringstuff.com/)
+- [Fluent Python: Clear, Concise, and Effective Programming](https://elmoukrie.com/wp-content/uploads/2022/05/luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf)
+- 
 
 
 # Datasets
