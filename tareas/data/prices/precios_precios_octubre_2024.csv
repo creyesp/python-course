@@ -1,0 +1,215 @@
+id.presentacion;grupo;producto;marca;especificacion;N;Min;Pmin;Pmediano;PPdM;Pmax;Max;ee;iqr;PPdM_Ant;Var.Mens;C.V.
+1;Alimentos y bebidas;Aceite de girasol;Óptimo;Envase 900 cc;454;80;85;99;99,611;119,0;129,0;6,596779277;3,42;100,098;-0,0049;0,0662
+2;Alimentos y bebidas;Aceite de girasol;Río de la Plata;Envase 900 cc;424;72;79;109;111,186;145,0;146,0;9,971427929;10;110,829;0,0032;0,0897
+3;Alimentos y bebidas;Aceite de girasol;Uruguay;Envase 900 cc;318;69,9;75;88;87,905;118,0;123,0;9,5214339;20;87,114;0,0091;0,1083
+359;Alimentos y bebidas;Aceite de girasol;Tata;Envase 900 cc;86;95;95;95;98,613;109,0;109,0;6,1271247;14;95;0,038;0,0621
+361;Alimentos y bebidas;Aceite de girasol;Precio Líder;Envase 900 cc;90;79;79;99;98,06;99,0;99,0;3,799762372;0;99;-0,0095;0,0387
+365;Alimentos y bebidas;Aceite de girasol;Tienda Inglesa;Envase 900 cc;19;77,6;77,6;84;90,043;102,0;102,0;7,767370465;13;96,236;-0,0644;0,0863
+4;Alimentos y bebidas;Aceite de maíz;Delicia;Envase 900 cc;402;89;92,453;128;124,617;140,0;154,4;11,08309523;14;123,98;0,0051;0,0889
+5;Alimentos y bebidas;Aceite de maíz;Río de la Plata;Envase 900 cc;329;113,4;130;140;147,103;165,0;167,0;11,40947379;18,28;148,712;-0,0108;0,0776
+7;Alimentos y bebidas;Aceite de soja;Condesa;Envase 900 cc;389;52;57;67;66,951;85,0;97,0;7,909790725;16;64,657;0,0355;0,1181
+8;Alimentos y bebidas;Aceite de soja;Río de la Plata;Envase 900 cc;426;52;57;69;69,077;84,0;95,0;9,155739466;20;69,035;0,0006;0,1325
+9;Alimentos y bebidas;Aceite de soja;Salad;Envase 900 cc;92;45;45;75;72,76;99,0;99,0;6,727074483;0;73,945;-0,016;0,0925
+10;Alimentos y bebidas;Agua de mesa con gas;Matutina;Envase 2,5 lt.;449;49;53,9;59;59,53;73,0;73,0;2,976481063;3;59,468;0,001;0,05
+11;Alimentos y bebidas;Agua de mesa con gas;Nativa;Envase 2,5 lt.;377;59;68;74;73,882;88,0;89,0;3,195905512;1;73,649;0,0032;0,0433
+12;Alimentos y bebidas;Agua de mesa con gas;Salus;Envase 2,25 lt.;557;64,9;65;74;75,3;80,0;80,0;3,294750068;1;75,338;-0,0005;0,0438
+366;Alimentos y bebidas;Agua de mesa sin gas;Salus;Envase 2,25lt.;550;64,9;65;74;75,305;80,0;80,0;3,565446424;6;75,339;-0,0005;0,0473
+367;Alimentos y bebidas;Agua de mesa sin gas;Matutina;Envase 2,5lt.;401;49;53;59;59,348;73,0;73,0;2,900514599;1;59,283;0,0011;0,0489
+368;Alimentos y bebidas;Agua de mesa sin gas;Vitale;Envase 2,5lt.;376;50;55;65;62,817;73,0;99,0;4,25401707;6;62,526;0,0047;0,0677
+369;Alimentos y bebidas;Agua mineral sin gas;Salus;Envase 6,25lt.;542;109;122;137;137,999;147,0;147,0;7,632478601;10;137,434;0,0041;0,0553
+370;Alimentos y bebidas;Agua mineral sin gas;Nativa;Envase 6lt.;371;104,9;109;130;128,864;136,0;142,0;4,089990918;1;126,386;0,0196;0,0317
+13;Alimentos y bebidas;Aguja vacuna;Con Hueso - Sin Marca;1 kg.;141;249;255;299;305,703;369,0;375,0;17,00707608;9;304,482;0,004;0,0556
+14;Alimentos y bebidas;Aguja vacuna;Sin Hueso - Sin Marca;1 kg.;133;229;229;298;301,269;399,0;409,0;47,49380077;74;279,822;0,0766;0,1576
+15;Alimentos y bebidas;Arroz blanco;Blue Patna;Bolsa 1 kg.;394;52;59,9;74,9;74,93;89,0;91,0;6,442756876;12;74,796;0,0018;0,086
+16;Alimentos y bebidas;Arroz blanco;Green Chef;Bolsa 1 kg.;390;55;59;74,9;71,613;80,0;80,0;5,25524705;7;71,487;0,0018;0,0734
+17;Alimentos y bebidas;Arroz blanco;Saman Blanco;Bolsa 1 kg.;444;53;57;82;79,916;89,0;90,0;6,560900193;8;78,283;0,0209;0,0821
+18;Alimentos y bebidas;Arroz blanco;Aruba tipo Patna;Bolsa 1 kg.;267;37;39;50;50,629;59,0;75,0;4,504973466;5;50,701;-0,0014;0,089
+19;Alimentos y bebidas;Arroz blanco;Pony;Bolsa 1 kg.;52;31;31;39;38,577;59,0;59,0;4,882191351;3;38,577;0;0,1266
+20;Alimentos y bebidas;Arroz blanco;Vidarroz;Bolsa 1 kg.;236;33;40;57;52,808;60,0;60,0;7,414411868;10;53,1;-0,0055;0,1404
+22;Alimentos y bebidas;Arvejas en conserva;Cololó;Lata 380 grs.;360;29;35;49;48,315;55,0;60,0;5,53727368;10;46,755;0,0334;0,1146
+23;Alimentos y bebidas;Arvejas en conserva;Nidemar;Lata 300 grs.;166;19;19;37;33,266;37,0;37,0;4,580418277;5;33,246;0,0006;0,1377
+24;Alimentos y bebidas;Azúcar blanco;Azucarlito;Paquete 1 kg.;401;49;52;55;56,394;72,0;75,0;3,027900665;2,1;56,267;0,0023;0,0537
+25;Alimentos y bebidas;Azúcar blanco;Bella Unión;Paquete 1 kg.;393;49;50;55;55,062;65,0;67,0;2,219571523;1,1;55,297;-0,0042;0,0403
+26;Alimentos y bebidas;Café envasado (no instantáneo);Águila;Paquete 250 grs.;428;209;209;267;262,089;317,0;335,0;19,67999526;17,87;254,615;0,0294;0,0751
+27;Alimentos y bebidas;Café envasado (no instantáneo);Chaná;Paquete 250 grs.;428;215,4;255;314;315,729;369,0;379,0;20,06059179;15;313,65;0,0066;0,0635
+28;Alimentos y bebidas;Café envasado (no instantáneo);Saint;Paquete 250 grs.;175;165;169;214,5;212,329;239,0;243,0;15,45011368;28;216,113;-0,0175;0,0728
+29;Alimentos y bebidas;Carne picada vacuna;Con Hasta 5% de grasa;1 kg.;161;299;299,01;399;393,926;459,4;495,0;27,71602291;17;392,175;0,0045;0,0704
+30;Alimentos y bebidas;Carne picada vacuna;Con Hasta 20% de grasa;1 kg.;230;199;219;279;278,871;369,3;389,0;35,54727898;70;267,559;0,0423;0,1275
+31;Alimentos y bebidas;Cerveza;Patricia;Botella 960 ml.;423;140;140;177;175,186;185,0;191,0;7,833600662;0,01;174,233;0,0055;0,0447
+32;Alimentos y bebidas;Cerveza;Pilsen;Botella 960 ml.;315;129;132;155;153,7;167,0;168,0;5,35893369;0;150,092;0,024;0,0349
+33;Alimentos y bebidas;Cerveza;Zillertal;Botella 1 lt.;422;149;149;197;190,689;206,0;210,0;9,96659932;14;192,497;-0,0094;0,0523
+37;Alimentos y bebidas;Chorizos mezcla;sueltos - Cattivelli  - Extra;1 kg.;237;425;425;604;586,701;640,0;703,0;45,56956877;5;568,028;0,0329;0,0777
+38;Alimentos y bebidas;Chorizos mezcla;sueltos - Centenario - Extra;1 kg.;220;425;425;629;600,189;714,0;745,0;67,60854356;83,82;596,64;0,0059;0,1126
+39;Alimentos y bebidas;Chorizos mezcla;sueltos - La Familia - Hilo amarillo;1 kg.;187;299;302,22;375;373,389;432,0;432,0;42,20628782;63;373,315;0,0002;0,113
+40;Alimentos y bebidas;Cocoa;Copacabana;Envase 500 grs.;459;199;203;259;261,842;307,0;338,0;20,07848058;17;251,913;0,0394;0,0767
+41;Alimentos y bebidas;Cocoa;Vascolet;Envase 500 grs.;407;175;175;225;223,783;278,8;316,0;30,73834816;28;226,293;-0,0111;0,1374
+48;Alimentos y bebidas;Dulce de leche;Conaprole;Envase 1 kg.;427;207;233;264;266,892;305,0;318,0;13,70958257;15;269,268;-0,0088;0,0514
+49;Alimentos y bebidas;Dulce de leche;Los Nietitos;Envase 1 kg.;364;155;164,9;213;208,251;249,0;271,0;18,19465024;9,3;212,036;-0,0179;0,0874
+50;Alimentos y bebidas;Dulce de leche;Manjar;Envase 1 kg.;460;161;169;193;195,278;234,0;238,0;11,43133587;12;193,07;0,0114;0,0585
+51;Alimentos y bebidas;Dulce de membrillo;Los Nietitos;Envase 400 grs.;319;55;55;73;71,837;85,0;88,0;4,940341457;4;72,596;-0,0105;0,0688
+52;Alimentos y bebidas;Fideos secos al huevo;Adria;Paquete 500 grs.;388;68;74,9;91;89,703;99,0;105,0;3,781754409;2;89,902;-0,0022;0,0422
+53;Alimentos y bebidas;Fideos secos al huevo;Cololó;Paquete 500 grs.;375;63;65;76;74,735;83,0;90,0;5,077586632;4;74,226;0,0069;0,0679
+54;Alimentos y bebidas;Fideos secos al huevo;Las Acacias;Paquete 500 grs.;445;59;68;80;79,316;95,0;101,0;6,582329591;3;80,455;-0,0142;0,083
+55;Alimentos y bebidas;Fideos secos semolados;Adria;Paquete 500 grs.;225;42;44,99;66;63,794;80,0;86,0;7,68137582;8;64,246;-0,007;0,1204
+56;Alimentos y bebidas;Fideos secos semolados;Las Acacias - franja celeste;Paquete 500 grs.;250;42;49;63;61,048;69,0;79,0;6,276362974;10;60,705;0,0057;0,1028
+58;Alimentos y bebidas;Frankfurters cortos;Centenario;Paquete 8 us.;146;150;152;191,5;199,029;260,0;260,0;20,95683743;7,5;199,029;0;0,1053
+59;Alimentos y bebidas;Frankfurters cortos;Ottonello;Paquete 8 us.;376;129;155;184;181,463;200,0;200,0;11,83174256;10;183,544;-0,0113;0,0652
+60;Alimentos y bebidas;Frankfurters cortos;Schneck;Paquete 8 us.;439;180;195;239;236,892;266,0;300,0;16,0898886;14;236,845;0,0002;0,0679
+61;Alimentos y bebidas;Galletitas al agua;Famosa;Paquete 140 grs.;535;47;49;71;69,724;84,0;85,0;6,737164122;10;69,974;-0,0036;0,0966
+62;Alimentos y bebidas;Galletitas al agua;Maestro Cubano;Paquete 120 grs.;92;40;40;41;40,925;47,0;47,0;1,374430465;1;40,925;0;0,0336
+63;Alimentos y bebidas;Gaseosa tipo cola (env. no ret.);Coca Cola;Botella 1,5 lt.;587;115;123;142;145,943;157,0;162,0;8,215296647;15;146,12;-0,0012;0,0563
+64;Alimentos y bebidas;Gaseosa tipo cola (env. no ret.);Coca Cola_;Botella 2,25.lt.;487;138;143;180;185,081;199,0;219,0;12,26966454;21;183,135;0,0106;0,0663
+66;Alimentos y bebidas;Gaseosa tipo cola (env. no ret.);Pepsi;Botella 2 lt.;445;129,9;145;172;170,468;185,0;195,0;7,252100467;0;169,814;0,0039;0,0425
+67;Alimentos y bebidas;Gaseosa tipo cola (env. no ret.);Pepsi;Botella 1,5 lt.;443;109;117;129;129,375;148,0;148,0;6,0231097;0;127,736;0,0128;0,0466
+68;Alimentos y bebidas;Hamburguesas carne vacun;Burgy;Paquete 3 unidades;370;28;28;35;35,518;41,0;45,0;2,886670076;5;35,581;-0,0018;0,0813
+69;Alimentos y bebidas;Hamburguesas carne vacun;Paty;Paquete 2 unidades;167;48;48;72;73,447;114,0;114,0;17,99036307;33,9;72,044;0,0195;0,2449
+70;Alimentos y bebidas;Hamburguesas carne vacun;Schneck;Paquete 2 unidades;438;63;67;90;87,449;100,0;105,0;6,535777052;6;85,761;0,0197;0,0747
+71;Alimentos y bebidas;Harina de maíz;Gourmet;Paquete 450 grs.;99;29;29;35;35,634;43,0;43,0;4,025009479;3;37,41;-0,0475;0,113
+72;Alimentos y bebidas;Harina de maíz;Presto Pronta Arcor;Paquete 500 grs.;353;39;45;56;56,377;65,9;68,0;4,196795143;4;56,199;0,0032;0,0744
+73;Alimentos y bebidas;Harina de maíz;Puritas;Paquete 450 grs.;430;29;29;42;43,484;59,0;59,0;8,218380674;5,02;43,453;0,0007;0,189
+74;Alimentos y bebidas;Harina trigo común 000;Cañuelas;Paquete 1 kg.;488;39;40,9;53;56,092;65,0;67,0;5,267647101;9;56,009;0,0015;0,0939
+75;Alimentos y bebidas;Harina trigo común 000;Cololó;Paquete 1 kg.;139;43;44;49,9;48,15;62,0;62,0;3,850860911;4,9;48,15;0;0,08
+76;Alimentos y bebidas;Harina trigo común 0000;Cañuelas;Paquete 1 kg.;518;48;48;63;60,054;69,0;73,0;5,51717977;9;61,356;-0,0212;0,0919
+77;Alimentos y bebidas;Harina trigo común 0000;Cololó;Paquete 1 kg.;360;45;45;62;60,81;75,0;76,0;7,651932472;11;61,639;-0,0134;0,1258
+78;Alimentos y bebidas;Harina trigo común 0000;Primor;Paquete 1 kg.;183;48;48;57;57,791;68,0;69,0;3,569869648;3;56,291;0,0266;0,0618
+358;Alimentos y bebidas;Harina trigo común 0000;Tata;Paquete 1 kg.;86;40;40;55;54,779;55,0;55,0;1,789990184;0;54,959;-0,0033;0,0327
+360;Alimentos y bebidas;Harina trigo común 0000;Precio Líder;Paquete 1 kg.;90;40;40;59;58,21;59,0;59,0;3,793472484;0;55,229;0,054;0,0652
+363;Alimentos y bebidas;Harina trigo común 0000;Granja La Sonrisa;Paquete 1 kg.;65;47;47;47;48,118;53,0;53,0;1,509923025;2,9;48,612;-0,0102;0,0314
+364;Alimentos y bebidas;Harina trigo común 0000;Tienda Inglesa;Paquete 1 kg.;19;49;49;60;57,648;74,0;74,0;8,134315829;13;62,474;-0,0772;0,1411
+79;Alimentos y bebidas;Helado familiar;Conaprole;Envase 1lt.;445;224;224;275;269,252;310,0;337,0;19,6263295;27,9;274,287;-0,0184;0,0729
+80;Alimentos y bebidas;Helado familiar;Crufi;Envase 1lt.;297;225;231;277;283,596;312,6;356,0;23,44576113;43;283,175;0,0015;0,0827
+85;Alimentos y bebidas;Huevos colorados;El Jefe;Envase 1/2 docena;103;94;99;113;114,992;138,0;138,0;6,877116951;3;114,899;0,0008;0,0598
+86;Alimentos y bebidas;Huevos colorados;Prodhin;Envase 1/2 docena;307;105;110;121;120,671;135,0;135,0;5,561729537;5;122,161;-0,0122;0,0461
+87;Alimentos y bebidas;Huevos colorados;Super huevo;Envase 1/2 docena;297;95;97;114;112,594;129,0;129,0;6,586003509;13;112,918;-0,0029;0,0585
+97;Alimentos y bebidas;Jamón cocido no artesanal;Cattivelli;1 kg.;30;528;528;660;634,027;710,0;710,0;47,90178124;50;641,753;-0,012;0,0756
+98;Alimentos y bebidas;Jamón cocido no artesanal;Ottonello;1 kg.;222;550;570;659;651,252;710,0;720,0;27,29006401;10;652,236;-0,0015;0,0419
+100;Alimentos y bebidas;Leonesa;Ottonello;1 kg.;82;415;415;460;459,212;590,0;590,0;17,44350864;0;456,829;0,0052;0,038
+101;Alimentos y bebidas;Leonesa;Schneck;1 kg.;244;459,39;460;560;577,376;620,0;640,0;37,94810696;60;570,386;0,0123;0,0657
+102;Alimentos y bebidas;Manteca;Calcar;Envase 200 grs.;22;61;61;69;69,718;90,0;90,0;6,233547371;8;69,114;0,0087;0,0894
+103;Alimentos y bebidas;Manteca;Conaprole sin sal;Envase 200 grs.;471;80;94;100;103,782;117,0;117,0;8,678792074;20,1;102,638;0,0111;0,0836
+104;Alimentos y bebidas;Manteca;Kasdorf;Envase 200 grs.;291;81;89;98;98,523;108,0;109,0;4,071338389;3,1;98,381;0,0014;0,0413
+105;Alimentos y bebidas;Margarina;Doriana nueva;Envase 250 grs.;129;52;55;82;88,719;120,0;120,0;16,78029449;21;88,719;0;0,1891
+380;Alimentos y bebidas;Margarina;Adorita;Envase 250 grs.;374;35;37;57;56,681;66,0;69,0;5,145923434;4;57,589;-0,0158;0,0908
+381;Alimentos y bebidas;Margarina;Qualy;Envase 250 grs.;296;28;35;58;59,839;70,0;77,0;7,638166923;9;58,816;0,0174;0,1276
+109;Alimentos y bebidas;Mayonesa común;Hellmans;Envase 500 grs.;400;111,9;130,2;184;174,765;193,0;198,0;15,66511261;15;168,446;0,0375;0,0896
+110;Alimentos y bebidas;Mayonesa común;Uruguay;Envase 500 grs.;412;74,9;77;90;92,731;109,0;121,0;8,08369814;10,87;92,056;0,0073;0,0872
+112;Alimentos y bebidas;Mermelada de durazno;El Hogar;Envase 500 grs.;128;64;64;89;85,518;149,0;149,0;18,91418948;20;85,518;0;0,2212
+113;Alimentos y bebidas;Mermelada de durazno;Los Nietitos;Envase 500 grs.;365;89;89,002;119,9;114,903;129,0;146,0;11,17023277;21;119,089;-0,0352;0,0972
+114;Alimentos y bebidas;Nalga vacuna;Con Hueso - Sin Marca;1 kg.;55;259;259;259;324,05;449,0;449,0;78,80489708;172,01;320,538;0,011;0,2432
+115;Alimentos y bebidas;Nalga vacuna;Sin Hueso - Sin Marca;1 kg.;133;279;279;381;379,576;489,0;499,0;52,69742766;80;361,763;0,0492;0,1388
+116;Alimentos y bebidas;Paleta vacuna;Con Hueso - Sin Marca;1 kg.;160;255;283,24;324;325,215;379,0;379,0;17,98118943;22;324,061;0,0036;0,0553
+117;Alimentos y bebidas;Paleta vacuna;Sin Hueso - Sin Marca;1 kg.;153;229;229;289;307,924;429,0;465,0;51,9761588;80;302,579;0,0177;0,1688
+118;Alimentos y bebidas;Pan de molde lacteado;Los Sorchantes;Paquete 330 grs.;392;97;97;119;119,666;152,0;155,0;8,470690502;6;119,144;0,0044;0,0708
+119;Alimentos y bebidas;Pan de molde lacteado;Bimbo;Paquete 330 grs.;415;99;110;131;131,201;155,0;162,0;8,382443381;11;130,47;0,0056;0,0639
+120;Alimentos y bebidas;Pan de molde lacteado;Pan Catalán;Paquete 330 grs.;77;72;72;76;77,69;95,0;95,0;3,628667312;3;77,69;0;0,0467
+121;Alimentos y bebidas;Pan flauta;Sin marca;Unidad aprox215 grs.;111;42;42;87;81,932;97,0;97,0;13,12902632;0;81,918;0,0002;0,1602
+128;Alimentos y bebidas;Peceto vacuno;Sin Marca;1 kg.;152;329;349;397;402,322;499,0;529,0;39,27702299;26;402,033;0,0007;0,0976
+129;Alimentos y bebidas;Pescado fresco;bifes de merluz - sin marca;1 kg.;109;399;399;469;450,394;489,0;499,0;30,36902848;50;457,997;-0,0166;0,0674
+130;Alimentos y bebidas;Pollo entero fresco con menudos;Avícola del Oeste;1 kg.;219;128,25;129;158;165,714;219,0;229,0;18,80509408;16;164,509;0,0073;0,1135
+132;Alimentos y bebidas;Pollo entero fresco con menudos;Tres Arroyos;1 kg.;33;124;124;199;179,5;229,0;229,0;31,61881705;60;178,436;0,006;0,1761
+133;Alimentos y bebidas;Pulpa de tomate;Conaprole;Envase 1 lt.;580;77;84;100;99,843;110,0;127,0;5,863634774;3;99,04;0,0081;0,0587
+134;Alimentos y bebidas;Pulpa de tomate;De Ley;Envase 1,020 lt.;426;59;64,9;76;78,455;93,0;97,0;7,344473171;5,1;79,444;-0,0124;0,0936
+135;Alimentos y bebidas;Pulpa de tomate;Gourmet;Envase 1 lt.;458;69;75;93;93,952;125,0;125,0;11,37300704;11,55;95,972;-0,021;0,1211
+136;Alimentos y bebidas;Queso rallado;Artesano;Paquete 80 grs.;162;115;115;130;132,488;145,0;145,0;9,821015384;19,15;132,503;-0,0001;0,0741
+137;Alimentos y bebidas;Queso rallado;Conaprole;Paquete 80 grs.;453;85;92;119;114,626;140,0;150,0;12,18843059;20;113,217;0,0124;0,1063
+138;Alimentos y bebidas;Queso rallado;Milky;Paquete 80 grs.;186;90;95;104;105,711;130,0;130,0;6,917541403;11;105,699;0,0001;0,0654
+139;Alimentos y bebidas;Rueda Vacuna;Con Hueso - Sin Marca;1 kg;18;339,79;339,79;418;403,099;418,0;418,0;24,17147215;19;398,077;0,0126;0,06
+140;Alimentos y bebidas;Sal fina yodada fluorada;Sek;Paquete 500 grs.;241;41;41;59;59,333;78,0;84,0;7,509155362;13;58,174;0,0199;0,1266
+141;Alimentos y bebidas;Sal fina yodada fluorada;Torrevieja;Paquete 500 grs.;90;39;39;57;53,667;57,0;57,0;5,772612481;9;53,667;0;0,1076
+142;Alimentos y bebidas;Sal fina yodada fluorada;Urusal;Paquete 500 grs.;315;40;40;54;53,157;60,0;73,0;3,954395995;1;53,103;0,001;0,0744
+143;Alimentos y bebidas;Té negro en saquitos;Hornimans;Caja 10 us.;452;38;38;46;47,703;61,0;64,0;5,418347071;8;47,805;-0,0021;0,1136
+144;Alimentos y bebidas;Té negro en saquitos;La Virginia;Caja 10 us.;446;26;30;36;35,468;43,2;45,4;2,787756365;4;34;0,0432;0,0786
+145;Alimentos y bebidas;Té negro en saquitos;President;Caja 10 us.;292;51;51;65;65,83;79,0;82,0;3,962934656;4;65,733;0,0015;0,0602
+146;Alimentos y bebidas;Vino tinto común tetrabrick;Faisán;Envase 1 lt.;425;112;112;129;127,954;144,0;161,0;5,973490077;6;127,881;0,0006;0,0467
+147;Alimentos y bebidas;Vino tinto común tetrabrick;Santa Teresa Clásico;Envase 1 lt.;457;117;122;142;140,417;156,0;165,0;8,083717345;11;140,089;0,0023;0,0576
+148;Alimentos y bebidas;Vino tinto común tetrabrick;Tango;Envase 1 lt.;138;105;105;109;109,536;116,0;117,0;3,516780063;8;109,536;0;0,0321
+149;Alimentos y bebidas;Yerba mate común;Baldo;Paquete1 kg.;620;170;185;191;193,708;240,8;249,1;8,480954979;2;189,383;0,0228;0,0438
+150;Alimentos y bebidas;Yerba mate común;Canarias;Paquete1 kg.;602;179;188;194;199,432;269,0;269,0;17,06501183;2;194,966;0,0229;0,0856
+151;Alimentos y bebidas;Yerba mate común;Del Cebador;Paquete1 kg.;427;134,9;135;175;176,415;212,0;222,0;13,79523656;9,5;173,995;0,0139;0,0782
+152;Alimentos y bebidas;Yogur;Calcar;Sachet 1 lt.;288;69;74,9;83,7;85,02;99,0;101,0;5,16587377;9;87,697;-0,0305;0,0608
+153;Alimentos y bebidas;Yogur;Conaprole BIO TOP;Sachet1,200 lt.;403;69;77;98,19;95,051;106,0;111,0;8,196490635;9;94,239;0,0086;0,0862
+154;Alimentos y bebidas;Yogur;Parmalat Bio Yogur;Sachet 1 lt.;236;61;63;89,9;91,837;103,0;108,0;6,621384917;8;91,608;0,0025;0,0721
+257;Frutas y verduras;Banana Brasil;;1 kg.;187;59;59;72;73,927;93,0;97,0;5,331852172;9;73,533;0,0054;0,0721
+255;Frutas y verduras;Banana Ecuador;;1 kg.;61;75;75;115;114,7;155,0;160,0;18,09936957;7;110,863;0,0346;0,1578
+238;Frutas y verduras;Lechuga Crespa;;1 unidad;233;19;22;50;51,88;75,0;76,0;9,966966614;10,26;57,507;-0,0978;0,1921
+239;Frutas y verduras;Lechuga Mantecosa;;1 unidad;59;19;19;42,9;43,575;68,8;72,0;13,34773219;24;48,046;-0,0931;0,3063
+275;Frutas y verduras;Manzana Fuji;;1 kg.;22;129;140;169;166,551;185,0;185,0;8,240751842;0;163,251;0,0202;0,0495
+276;Frutas y verduras;Manzana Granny Smith;;1 kg.;136;94;109;119;135,876;189,0;210,0;22,58173704;40;157,641;-0,1381;0,1662
+277;Frutas y verduras;Manzana Red Deliciosa;;1 kg.;228;87;119;144;144,446;199,0;210,0;13,92553612;9;134,331;0,0753;0,0964
+286;Frutas y verduras;Naranja Navel;;1 kg.;109;33;33;49;50,582;69,0;79,0;6,688860182;0;55,53;-0,0891;0,1322
+287;Frutas y verduras;Naranja Valencia;;1 kg.;102;33;39;54;54,691;65,0;65,0;4,091788934;2;54,794;-0,0019;0,0748
+244;Frutas y verduras;Papa Blanca;;1 kg.;222;69;85;109;104,528;129,0;131,0;9,573475582;14;107,066;-0,0237;0,0916
+245;Frutas y verduras;Papa Rosada;;1 kg.;147;64;70;99;99,14;120,0;120,0;7,561364226;3;97,331;0,0186;0,0763
+253;Frutas y verduras;Tomate Americano;;1 kg.;150;99;109;199;197,69;259,9;259,9;32,92904562;47,1;203,301;-0,0276;0,1666
+254;Frutas y verduras;Tomate Perita;;1 kg.;138;120;129;245;242,094;308,0;339,0;34,65593531;0;242,974;-0,0036;0,1432
+262;Frutas y verduras;Zapallo Calabacín;;1 kg.;118;45;49;95;98,015;119,9;119,9;15,66266054;14;84,526;0,1596;0,1598
+264;Frutas y verduras;Zapallo Criollo;;1 kg.;38;45;45;73;66,172;95,0;99,0;12,40603413;21;63,403;0,0437;0,1875
+45;Limpieza del hogar;Detergente para vajilla;Deterjane limón;Envase 1.250 lt.;392;109;118;139;139,651;165,0;168,0;7,894793525;10;140,041;-0,0028;0,0565
+46;Limpieza del hogar;Detergente para vajilla;Hurra Nevex Limón;Envase 1.250 lt.;565;105;125;136;141,573;174,9;174,9;15,45922599;20,279;140,26;0,0094;0,1092
+47;Limpieza del hogar;Detergente para vajilla;Protergente limón;Envase 1 lt.;412;56;64;75;74,439;85,0;85,0;5,717810404;9;73,477;0,0131;0,0768
+82;Limpieza del hogar;Hipoclorito de sodio;Agua Jane;Botella 1 lt.;594;69;73;87;87,66;112,0;112,0;8,263614539;9;86,665;0,0115;0,0943
+83;Limpieza del hogar;Hipoclorito de sodio;Sello Rojo;Botella 1 lt.;591;56;63;81;78,234;101,0;105,0;8,595407583;13;78,552;-0,004;0,1099
+84;Limpieza del hogar;Hipoclorito de sodio;Solución Cristal;Botella 1 lt.;441;47;49;76;73,45;87,0;89,9;7,883687244;8,225;71,449;0,028;0,1073
+91;Limpieza del hogar;Jabón en polvo máquina;Drive;Paquete 800 grs.;135;121;125;169;156,246;178,5;178,5;15,99481697;27;156,246;0;0,1024
+92;Limpieza del hogar;Jabón en polvo máquina;Nevex;Paquete 800 grs.;594;164,9;169;198;194,609;229,6;238,0;13,94818317;30;190,861;0,0196;0,0717
+93;Limpieza del hogar;Jabón en polvo máquina;Skip - Paquete azul;Paquete 800 grs.;546;122;130,9;151;152,991;175,5;183,0;11,06610316;14;154,255;-0,0082;0,0723
+94;Limpieza del hogar;Jabón para ropa en barra;Bull Dog;Unidad 300 grs.;344;41;43;85;75,749;101,0;109,0;16,63270156;6,47;75,925;-0,0023;0,2196
+95;Limpieza del hogar;Jabón para ropa en barra;Nevex;Unidad 200 grs.;404;39,3;49,9;57;58,596;68,1;68,1;4,468100635;7;58,527;0,0012;0,0763
+96;Limpieza del hogar;Jabón para ropa en barra;Primor;Unidad 200 grs.;522;30;33;37;38,627;49,0;55,0;4,502103919;10;38,999;-0,0095;0,1166
+318;Cuidado personal;Afeitadora;Gillette;2 unidades;464;398;405;542;540,099;619,0;638,0;43,18327746;39;532,635;0,014;0,08
+319;Cuidado personal;Afeitadora;Xtreme3;1 unidad;541;70;70;109;115,89;183,0;192,0;33,79468416;25;115,329;0,0049;0,2916
+347;Cuidado personal;Alcohol en gel;Bioset;250 ml.;103;100;108,79;142;135,162;159,0;159,0;11,92829158;13;134,882;0,0021;0,0883
+346;Cuidado personal;Alcohol rectificado;Droguería Paysandú;250 ml.;19;77;77;80;81,474;92,0;92,0;3,764053509;2;81,474;0;0,0462
+348;Cuidado personal;Algodón;Zig Zag Cisne;100 grs.;599;92;97;125;133,108;191,0;191,0;32,92141046;70;132,223;0,0067;0,2473
+34;Cuidado personal;Champú;Fructis;Envase 350 ml.;574;191;227;345;321,377;389,0;389,0;40,84409594;41;333,327;-0,0359;0,1271
+35;Cuidado personal;Champú;Sedal;Envase 350 ml.;200;179;185,225;227;222,783;256,0;256,0;14,62236626;19;222,783;0;0,0656
+36;Cuidado personal;Champú;Suave;Envase 930 ml.;346;124;134,9;167;171,783;210,0;251,0;15,80697295;28;169,713;0,0122;0,092
+320;Cuidado personal;Champú;Dove;400 ml.;490;327;350;444;444,105;511,0;566,0;31,73699039;15;439,669;0,0101;0,0715
+321;Cuidado personal;Champú;Pantene;400 ml.;577;362;364,8;439;441,216;480,0;527,0;22,96151022;14;441,971;-0,0017;0,052
+349;Cuidado personal;Cinta adhesiva;Ready Plast;1 unidad;212;60;60;60;62,33;68,0;72,0;3,658998524;8;62,33;0;0,0587
+331;Cuidado personal;Colonia + Talco;Bebe & Co;120 ml.;455;415;599;649;662,534;742,7;756,0;39,03200767;66;656,651;0,009;0,0589
+322;Cuidado personal;Crema facial;Revitalift;50 ml.;59;1469;1469;1469;1491,203;1597,0;1597,0;48,27272652;0;1491,203;0;0,0324
+323;Cuidado personal;Crema facial;Asepxia;28 grs.;32;265;265;370;354,441;370,0;370,0;29,94899926;18,29;354,441;0;0,0845
+350;Cuidado personal;Curitas;Ready Plast;8 unidades;374;30;30;53;52,526;69,0;75,0;7,853329689;10;52,349;0,0034;0,1495
+42;Cuidado personal;Desodorante en aerosol;Axe Musk;Envase 113 grs.;617;149;152;194;190,269;226,0;226,0;14,02970886;6,42;189,367;0,0048;0,0737
+43;Cuidado personal;Desodorante en aerosol;Dove Original;Envase 100 grs.;575;148;169;236;232,359;275,0;290,0;20,82589066;13,98;212,104;0,0955;0,0896
+44;Cuidado personal;Desodorante en aerosol;Rexona Active Emotion;Envase 105 grs.;446;169,9;179;209;203,304;243,0;243,0;17,37988395;15,92;208,45;-0,0247;0,0855
+351;Cuidado personal;Gasa estéril;Sin Marca;40 unidades;170;63;65;87;86,298;87,0;87,0;2,808666407;0;86,298;0;0,0325
+339;Cuidado personal;Jabón de glicerina;Ann Bow;140 grs.;258;58;59;73,9;77,671;99,0;103,0;10,7506345;20,42;77,577;0,0012;0,1384
+88;Cuidado personal;Jabón de tocador;Astral plata;Unidad 125 grs.;664;38;39;57;60,664;89,0;89,0;10,26817433;17,2;62,826;-0,0344;0,1693
+89;Cuidado personal;Jabón de tocador;Palmolive;Unidad 125 grs.;241;26;27;38,4;38,002;53,0;53,0;7,944062281;9,1;38,002;0;0,209
+90;Cuidado personal;Jabón de tocador;Rexona;Unidad 125 grs.;374;41;44;60;59,835;73,0;76,0;9,313512972;19;62,323;-0,0399;0,1557
+324;Cuidado personal;Jabón de tocador;Neutrogena;80 grs.;301;99;109,6;150;149,77;170,5;170,5;11,67024132;17;144,911;0,0335;0,0779
+338;Cuidado personal;Jabón de tocador;Dove;90 grs.;663;55;56;75;75,653;85,0;98,0;6,274488802;4;75,067;0,0078;0,0829
+327;Cuidado personal;Pañales;Babysec;48 unidades;569;539;539;1039;1004,423;1192,0;1301,0;181,9245639;197;1003,92;0,0005;0,1811
+328;Cuidado personal;Pañales;Huggies;40 unidades;385;312,14;312,14;661;652,805;789,7;789,7;53,0451883;26;650,052;0,0042;0,0813
+326;Cuidado personal;Pañales adultos;Readysec;24 unidades;333;409;409;796;775,162;860,0;925,0;92,60061059;175;763,132;0,0158;0,1195
+122;Cuidado personal;Papel higiénico hoja simple;Elite;4 rollos de 30 mts.;282;72;72;105;104,702;147,0;147,0;12,88413724;18;104,955;-0,0024;0,1231
+123;Cuidado personal;Papel higiénico hoja simple;Higienol Export;4 rollos de 30 mts.;243;46;46;59;59,436;75,0;80,0;9,504981176;20;59,436;0;0,1599
+124;Cuidado personal;Papel higiénico hoja simple;Sin Fin;4 rollos de 50 mts.;415;95,9;99,9;124;128,297;159,0;162,0;14,54831298;17;132,529;-0,0319;0,1134
+125;Cuidado personal;Pasta dental;Colgate Herbal Blanqueador;90 grs.;585;49;49;84;79,591;91,0;105,0;11,70344642;22;79,993;-0,005;0,147
+126;Cuidado personal;Pasta dental;Kolynos Triple acción;90 grs.;563;32;37,9;42;43,406;50,0;65,0;3,989043279;6;43,374;0,0007;0,0919
+127;Cuidado personal;Pasta dental;Pico Jenner Plus;90 grs.;195;30;31;59;55,723;69,9;75,0;6,612568018;5;55,723;0;0,1187
+340;Cuidado personal;Perfume;Délice;50 ml.;321;529;539;597;622,646;733,0;733,0;52,70515904;28;622,445;0,0003;0,0846
+341;Cuidado personal;Perfume;Casapueblo;100 ml.;62;442;442;629;619,777;799,0;799,0;138,5630395;345;619,777;0;0,2236
+352;Cuidado personal;Protector solar SPF 20;Dermaglós;250 ml.;229;849;849;1311;1288,468;1415,0;1415,0;121,9573538;45;1259,661;0,0229;0,0947
+354;Cuidado personal;Protector solar SPF 30;Hawaiian Tropic;180 ml.;255;893;951,3;1055;1079,688;1296,0;1361,0;62,71086876;52;1079,602;0,0001;0,0581
+353;Cuidado personal;Protector solar SPF 40;Dermaglós;250 ml.;219;951;951;1500;1489,081;1585,0;1585,0;136,7669644;83;1453,405;0,0245;0,0918
+355;Cuidado personal;Protector solar SPF 50;Eucerin;150 ml;38;1486;1486;2580;2326,211;2580,0;2580,0;274,0763791;475;2151,8;0,0811;0,1178
+356;Cuidado personal;Protector solar SPF 60;Soundown;120 ml.;479;549;642,6;803;786,621;1025,4;1025,4;62,17108036;39;782,397;0,0054;0,079
+357;Cuidado personal;Protector solar SPF 80;Hawaiian Tropic;240 ml.;387;920;942;1055;1067,667;1323,0;1323,0;56,70375771;52;1061,769;0,0056;0,0531
+310;Cuidado personal;Repelente aerosol;Off!;170 cm3;633;269,9;299;362;370,819;451,0;451,0;36,85046641;56;372,725;-0,0051;0,0994
+314;Cuidado personal;Repelente aerosol;Júpiter;165 cm3;444;73;73;144;145,945;168,0;189,0;22,63023226;33;147,717;-0,012;0,1551
+315;Cuidado personal;Repelente aerosol;Off! LD;170 cm3;600;328,9;385;485;479,979;545,0;559,0;46,25238895;88;479,673;0,0006;0,0964
+308;Cuidado personal;Repelente crema;Off!;200 grs.;383;335;374;465;486,456;580,0;580,0;44,48488458;56;487,025;-0,0012;0,0914
+312;Cuidado personal;Repelente crema;Off!;90 grs.;437;245;276;368;374,472;467,0;494,0;30,99598699;18;373,69;0,0021;0,0828
+313;Cuidado personal;Repelente crema;Júpiter;80 grs.;260;96;96;200;167,887;200,0;200,0;41,47638588;71;167,758;0,0008;0,247
+309;Cuidado personal;Repelente spray;Off!;177 cm3;427;289;331;554;531,765;740,0;740,0;68,05404512;19;532,674;-0,0017;0,128
+335;Cuidado personal;Talco;Xanapie;180 grs.;279;87,9;89;106;107,251;140,0;140,0;8,84086149;3;104,401;0,0273;0,0824
+336;Cuidado personal;Talco;Xanapie;175 ml.;217;115;126,9;207;196,114;229,0;229,0;23,36558047;28;199,028;-0,0146;0,1191
+337;Cuidado personal;Talco;J&J;200 grs.;600;233,4;285;399;396,671;479,3;490,0;35,42116444;28;392,538;0,0105;0,0893
+342;Cuidado personal;Tinta;Excellence;1 unidad;393;515,9;567;727;712,093;771,1;811,0;56,9359094;47;684,386;0,0405;0,08
+343;Cuidado personal;Tinta;Issue;1 unidad;298;115;125;191;191,168;216,0;216,0;17,40041179;12;185,481;0,0307;0,091
+344;Cuidado personal;Tinta;Garnier;1 unidad;592;209,3;219;317;309,645;379,0;429,0;39,16053074;18,008;305,754;0,0127;0,1265
+332;Cuidado personal;Toallitas femeninas;Ladysoft;16 unidades;580;99;118,998;142;146,454;189,0;192,0;17,83568316;21;143,993;0,0171;0,1218
+333;Cuidado personal;Toallitas femeninas;Siempre Libre;8 unidades;393;96,9;99;136;136,18;163,8;165,0;17,62422764;18;135,895;0,0021;0,1294

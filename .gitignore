@@ -174,3 +174,5 @@ cython_debug/
 .pypirc
 
 consultas/*
+tareas/submitions/*
+.DS_Store
